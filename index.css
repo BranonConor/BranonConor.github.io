@@ -423,6 +423,9 @@ textarea {
 }
 /* Mobile */
 @media only screen and (max-width: 455px) {
+    .hero { 
+        background-attachment: scroll;
+    }
     .change .bar2 {
         transform: translateX(-150px);
         opacity: 0;
