@@ -426,7 +426,7 @@ textarea {
     .hero { 
         background-attachment: scroll;
         min-height: 500px;
-        padding: 75px 0 75px 0;
+        padding: 100px 0 125px 0;
     }
     .change .bar2 {
         transform: translateX(-150px);
